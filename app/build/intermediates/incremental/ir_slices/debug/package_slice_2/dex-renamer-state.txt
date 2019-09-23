@@ -1,0 +1,4 @@
+#Mon Sep 23 13:31:18 EAT 2019
+base.0=C\:\\Users\\Musira\\Desktop\\Android Apps\\Ngoma Zangu App\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+path.0=classes.dex
+renamed.0=classes.dex

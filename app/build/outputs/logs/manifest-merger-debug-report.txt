@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cef5f5604f78e4bf068a7ac2729d1ab8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0e136795fc373031d0ed64a6c568f5fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\recyclerview-fastscroll-1.0.18.aar\576e57bfbdad9e286abb869940ed0db9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\98e3ad554ecbe857438a9400057aae00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\83a793fbb12f83081fea7835dbf03517\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e9833f1dc260e5d13e66c2ce84234dbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bdf197ef093eabb6b125bf762847bcf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8170da252352122770fd32094d0cc673\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\56760028aebab2fe3185c55b44e64db9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\545d78337c11b51acee79d53564e90b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\443abe80b2c271957fafb95047cf77d6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\decb7de6b4bd01db2b8df2fc447aed19\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:8:5-24:19
+	android:supportsRtl
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:14:9-44
+activity#ke.co.musira.musicplayergo.MainActivity
+ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:16:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:20:27-74
+service#ke.co.musira.musicplayergo.playback.MusicService
+ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:23:9-84
+	android:name
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml:23:18-81
+uses-sdk
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cef5f5604f78e4bf068a7ac2729d1ab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\cef5f5604f78e4bf068a7ac2729d1ab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0e136795fc373031d0ed64a6c568f5fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0e136795fc373031d0ed64a6c568f5fd\AndroidManifest.xml:20:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\recyclerview-fastscroll-1.0.18.aar\576e57bfbdad9e286abb869940ed0db9\AndroidManifest.xml:7:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\recyclerview-fastscroll-1.0.18.aar\576e57bfbdad9e286abb869940ed0db9\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\98e3ad554ecbe857438a9400057aae00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\98e3ad554ecbe857438a9400057aae00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\83a793fbb12f83081fea7835dbf03517\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\83a793fbb12f83081fea7835dbf03517\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e9833f1dc260e5d13e66c2ce84234dbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e9833f1dc260e5d13e66c2ce84234dbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bdf197ef093eabb6b125bf762847bcf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bdf197ef093eabb6b125bf762847bcf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8170da252352122770fd32094d0cc673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8170da252352122770fd32094d0cc673\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\56760028aebab2fe3185c55b44e64db9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\56760028aebab2fe3185c55b44e64db9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\545d78337c11b51acee79d53564e90b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\545d78337c11b51acee79d53564e90b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\443abe80b2c271957fafb95047cf77d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\443abe80b2c271957fafb95047cf77d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\decb7de6b4bd01db2b8df2fc447aed19\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Musira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\decb7de6b4bd01db2b8df2fc447aed19\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Musira\Desktop\Android Apps\Ngoma Zangu App\app\src\main\AndroidManifest.xml
